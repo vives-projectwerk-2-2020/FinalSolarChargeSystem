@@ -1,0 +1,17 @@
+Part;Value;Device;Package;Description;;Farnell;;;;;
+C2;10µ;CPOL-EU153CLV-0505;153CLV-0505;POLARIZED CAPACITOR, European symbol;;9697012;;;;;
+C3;10µ;CPOL-EU153CLV-0505;153CLV-0505;POLARIZED CAPACITOR, European symbol;;9697012;;;;;
+C4;4700�;CPOL-EUE2.5-6;E2,5-6;POLARIZED CAPACITOR, European symbol;;2346507;;;;;
+D1;ES2D;ES2D;SMB;DIODE;;1467491;;;;;
+IC1;7805DT;7805DT;TO252;Positive VOLTAGE REGULATOR;;1366571;;;;;
+R1;330R;R-EU_R0603;R0603;RESISTOR, European symbol;;2331995;;;;;
+R4;270k;R-EU_R0603;R0603;RESISTOR, European symbol;;2447313;;;;;
+R5;100k;R-EU_R0603;R0603;RESISTOR, European symbol;;1692517;;;;;
+R6;2k;R-EU_R0603;R0603;RESISTOR, European symbol;;2447319;;;;;
+R7;100k;R-EU_R0603;R0603;RESISTOR, European symbol;;1692517;;;;;
+R8;1k;R-EU_R0603;R0603;RESISTOR, European symbol;;9238484;;;;;
+R9;10k;R-EU_R0603;R0603;RESISTOR, European symbol;;2861870;;;;;
+R10;150k;R-EU_R0603;R0603;RESISTOR, European symbol;;2447254;;;;;
+SV1;;MA03-1;MA03-1;PIN HEADER;;2839823;9979620;9979557;1578643;;description: if this is a prototype, you can use the first productref. But if you want to build this inside a box, you beter use the 3 last productrefs. 
+SV2;;MA04-1;MA04-1;PIN HEADER;;1667510;;;;;
+U$1;MCP73871_XXX_ML;MCP73871_XXX_ML;QFN20_4X4MC;;;1642489;;;;;
