@@ -9,3 +9,7 @@ Schematic and board of the final solar charge system
 This directory contains the final schematic and board for the battery charge system. It includes the farnell partlist too.
 
 This board is the reproduction of the prototype board.
+
+## Working
+
+Via a solarpanel the batteries are going to charge until they are under 4.2V. When the batteries are fully charged, the circuit will shut down. When the batteries are lower than 4.2V, it wil start charging again. The status of the batteries are read and used to show on the website.
