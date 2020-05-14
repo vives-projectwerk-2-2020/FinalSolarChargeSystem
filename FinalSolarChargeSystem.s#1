@@ -13967,6 +13967,8 @@ TS-003</description>
 <sheets>
 <sheet>
 <plain>
+<text x="165.75" y="31" size="2.1844" layer="97">Projectwerk VIVES Brugge 2020, Particula</text>
+<text x="165.75" y="26" size="2.1844" layer="97">By Tom Van Hove</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="1.27" y="0" smashed="yes"/>

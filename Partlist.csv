@@ -13,5 +13,5 @@ R8;1k;R-EU_R0603;R0603;RESISTOR, European symbol;;9238484;;;;;
 R9;10k;R-EU_R0603;R0603;RESISTOR, European symbol;;2861870;;;;;
 R10;150k;R-EU_R0603;R0603;RESISTOR, European symbol;;2447254;;;;;
 SV1;;MA03-1;MA03-1;PIN HEADER;;2839823;9979620;9979557;1578643;;description: if this is a prototype, you can use the first productref. But if you want to build this inside a box, you beter use the 3 last productrefs. 
-SV2;;MA04-1;MA04-1;PIN HEADER;;1667510;;;;;
+SV2;;MA05-1;MA05-1;PIN HEADER;;2356157;;;;;
 U$1;MCP73871_XXX_ML;MCP73871_XXX_ML;QFN20_4X4MC;;;1642489;;;;;
