@@ -1910,14 +1910,14 @@ design rules under a new name.</description>
 <polygon width="1.016" layer="1">
 <vertex x="0" y="0"/>
 <vertex x="0" y="22.5"/>
-<vertex x="35.5" y="22.5"/>
-<vertex x="35.5" y="0"/>
+<vertex x="39.5" y="22.5"/>
+<vertex x="39.5" y="0"/>
 </polygon>
 <polygon width="0.254" layer="16">
 <vertex x="0" y="22.5"/>
 <vertex x="0" y="0"/>
-<vertex x="35.5" y="0"/>
-<vertex x="35.5" y="22.5"/>
+<vertex x="39.5" y="0"/>
+<vertex x="39.5" y="22.5"/>
 </polygon>
 <contactref element="IC1" pad="3"/>
 <wire x1="14.5923" y1="16.510003125" x2="13.699996875" y2="16.510003125" width="0.2032" layer="1"/>
@@ -1927,13 +1927,6 @@ design rules under a new name.</description>
 <polygon width="0.254" layer="16">
 <vertex x="0" y="0"/>
 <vertex x="0" y="22.5"/>
-<vertex x="39.5" y="22.5"/>
-<vertex x="39.5" y="0"/>
-</polygon>
-<polygon width="0.254" layer="1">
-<vertex x="0" y="0"/>
-<vertex x="0" y="22.5"/>
-<vertex x="39" y="22.5"/>
 <vertex x="39.5" y="22.5"/>
 <vertex x="39.5" y="0"/>
 </polygon>

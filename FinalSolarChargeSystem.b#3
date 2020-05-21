@@ -175,6 +175,8 @@
 <wire x1="35.66" y1="0" x2="35.66" y2="22.53" width="0" layer="20"/>
 <wire x1="35.66" y1="22.53" x2="0" y2="22.53" width="0" layer="20"/>
 <wire x1="0" y1="22.53" x2="0" y2="0" width="0" layer="20"/>
+<text x="19.5" y="21.5" size="0.6096" layer="1">Projectwerk VIVES Brugge 2020, Particula</text>
+<text x="27" y="20.5" size="0.6096" layer="1">By Tom Van Hove</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
